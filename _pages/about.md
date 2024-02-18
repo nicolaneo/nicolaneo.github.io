@@ -13,7 +13,7 @@ You can find my CV [here](http://nicolaneo.github.io/files/CV_Nicola_Neophytou_2
 
 News
 =====
-* [February 2024] I am open to work and looking for positions starting May 2024
+* [February 2024] I am open to work and looking for positions in Montréal or remote starting May 2024.
 * [February 2024] I will be attending the AAAI Conference in Vancouver this month to present our accepted paper for the AI for Social Impact tract (arxiv link coming soon).
 * [December 2023] Our paper "Promoting Fair Vaccination Strategies through Influence Maximization: A Case Study on COVID-19 Spread" was accepted to the AI for Social Impact tract at AAAI-2024!
 * [March 2023] My research project in fair vaccination won Mila's EDI in Research Scholarship, for the Excellence in Research Category!
