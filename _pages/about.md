@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! Since I recently graduated from my Masters in Computer Science at Mila and Université de Montréal, I am currently working at Mila as a research consultant with my supervisor Professor Golnoosh Farnadi. My research focuses on applications of fairness and responsible AI, with previous experience on fair vaccination deployment strategies, the combination of fairness and privacy in machine learning, and demographic fairness and user uniqueness in recommender systems. My current project is studying sequential fairness and arbitrariness in loan lending applications. Prior to my Masters in CS, I completed my Masters in Physics from the University of Manchester in the UK. 
 
-You can find my CV [here](http://academicpages.github.io/files/paper1.pdf).
+You can find my CV [here](http://nicolaneo.github.io/files/CV_Nicola_Neophytou_2024.pdf).
 
 News
 =====
